@@ -274,6 +274,42 @@
         "Veneto"
       ]
     }
+  },
+  {
+    "date": "2021/01/07",
+    "zone": {
+      "orange": [],
+      "red": []
+    }
+  },
+  {
+    "date": "2021/01/09",
+    "zone": {
+      "red": [],
+      "orange": [
+        "Puglia",
+        "Sicilia",
+        "Abruzzo",
+        "Basilicata",
+        "Liguria",
+        "Umbria",
+        "Emilia-Romagna",
+        "Friuli Venezia Giulia",
+        "Marche",
+        "Molise",
+        "Calabria",
+        "Lombardia",
+        "Piemonte",
+        "Valle d'Aosta",
+        "P.A. Bolzano",
+        "Toscana",
+        "Campania",
+        "Lazio",
+        "Sardegna",
+        "P.A. Trento",
+        "Veneto"
+      ]
+    }
   }
 ]
 
