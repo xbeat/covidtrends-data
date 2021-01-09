@@ -310,6 +310,19 @@
         "Veneto"
       ]
     }
+  },
+  {
+    "date": "2021/01/11",
+    "zone": {
+      "red": [],
+      "orange": [
+        "Emilia-Romagna",
+        "Sicilia",
+        "Calabria",
+        "Lombardia",
+        "Veneto"
+      ]
+    }
   }
 ]
 
