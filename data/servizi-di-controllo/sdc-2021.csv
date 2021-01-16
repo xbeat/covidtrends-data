@@ -1,4 +1,4 @@
-data controlli,persone controllate,persone sanzionate,persone denunciate,esercizi controllati,esercizi sanzionati,esercizi chiusura provvisoria, esercizi chiusura,data documento
+data_controlli,persone_controllate,persone_sanzionate,persone_denunciate,esercizi_controllati,esercizi_sanzionati,esercizi_chiusura_provvisoria,esercizi_chiusura,data_documento
 2021-01-01,53683,1490,2,9930,106,6,6,2021-01-02
 2021-01-02,63090,1070,14,12268,63,16,16,2021-01-03
 2021-01-03,73049,1114,6,11333,29,9,11,2021-01-11
