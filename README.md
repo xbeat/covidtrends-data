@@ -8,7 +8,8 @@ Il CovIndex fornisce una indicazione del trend del contagio, analogamente all'in
 L'obiettivo è di avere CovIndex minore di 1, in tal modo i nuovi positivi tendono a diventare sempre di meno. Il CovIndex ha il vantagio di fornire informazioni fino a 2 settimane più recenti rispetto ad Rt. Per ulteriori dettagli consulta la guida sul sito CovidTrends.
 
 ## Struttura del repository
-```
+
+```text
 covidtrends-data/
 │
 ├── data/
@@ -18,7 +19,8 @@ covidtrends-data/
 │   ├── servizi-di-controllo
 ```
 
-
 ## Aggiornamento dei dati
 
-- Dati servizi di controllo ogni giorno alle 18:00<br>
+* Dati Rt aggiornati settimanalmente dal sito [ISS](https://www.epicentro.iss.it/coronavirus/sars-cov-2-dashboard)
+* Dati servizi di controllo ogni giorno alle 18:00
+* Dati provvedimenti legislativi e zone colorate, aggiornati al momento della pubblicazione in Gazzetta Ufficiale
