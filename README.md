@@ -1,10 +1,11 @@
 # **covidtrends ( Covid-19 dati Italia )**
 
-[Sito di Covidtrends](https://covidtrends.com)
+[Sito di CovidTrends](https://covidtrends.com)
 
-## covindex
+## CovIndex
 
-il CovIndex è calcolato sulla base del rapporto tra il numero dei nuovi casi positivi e i tamponi effettuati, il cosiddetto tasso di positività RPT. Il tasso RPT è molto attendibile e con notevoli benefici, perché che non risente delle oscillazioni continue sul numero dei controlli.
+Il CovIndex fornisce una indicazione del trend del contagio, analogamente all'indice di riproduzione Rt, utilizzando un algoritmo alternativo a quello di Rt.
+L'obiettivo è di avere CovIndex minore di 1, in tal modo i nuovi positivi tendono a diventare sempre di meno. Il CovIndex ha il vantagio di fornire informazioni fino a 2 settimane più recenti rispetto ad Rt. Per ulteriori dettagli consulta la guida sul sito CovidTrends.
 
 ## Struttura del repository
 ```
